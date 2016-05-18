@@ -1,15 +1,16 @@
 /**
  * 
  */
-package org.ranganath.dp.stragegy.archivecontext;
+package com.ranganath.dp.stragegy.archivecontext;
 
 import java.io.File;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
-import org.ranganath.dp.stragegy.context.CompressionContexts;
-import org.ranganath.dp.stragegy.contract.ZipCompression;
+import com.ranganath.dp.stragegy.context.CompressionContexts;
+import com.ranganath.dp.stragegy.contract.ZipCompression;
+
 
 /**
  * @author Ranganath

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.ranganath.dp.stragegy.contract;
+package com.ranganath.dp.stragegy.contract;
 
 import java.io.File;
 import java.nio.file.Path;

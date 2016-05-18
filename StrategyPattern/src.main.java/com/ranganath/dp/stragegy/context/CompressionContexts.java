@@ -1,13 +1,15 @@
 /**
  * 
  */
-package org.ranganath.dp.stragegy.context;
+package com.ranganath.dp.stragegy.context;
 
 import java.io.File;
 import java.nio.file.Path;
 import java.util.List;
 
-import org.ranganath.dp.stragegy.contract.ContractCompression;
+import com.ranganath.dp.stragegy.contract.ContractCompression;
+
+
 
 /**
  * @author Ranganath
